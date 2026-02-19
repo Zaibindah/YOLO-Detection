@@ -1,0 +1,14 @@
+# Folders
+videos/
+venv/
+dataset/
+training/
+output_videos/
+
+# Python files
+try_yolo_zone1.py
+try2.py
+frame_extraction.py
+
+# Model file
+yolo11n.pt
